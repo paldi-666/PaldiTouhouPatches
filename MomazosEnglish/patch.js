@@ -7,4 +7,8 @@
         "nmlgc/script_latin",
         "nmlgc/western_name_order"
     ],
+    "update": true,
+    "servers": [
+        "https://raw.githubusercontent.com/paldi-666/PaldiTouhouPatches/main/MomazosEnglish"
+    ]
 }
