@@ -8,6 +8,6 @@
     "MomazosRepaint": "Paldi's Repainted Touhou Images (th06)"
   },
   "servers": [
-    ""
+    "https://raw.githubusercontent.com/paldi-666/PaldiTouhouPatches/main/"
   ]
 }
