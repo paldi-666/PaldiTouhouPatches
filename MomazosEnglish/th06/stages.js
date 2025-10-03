@@ -1,9 +1,9 @@
 {
-    "1": "Scroll of the Fantasy Night ~ Mystic Flier",
-    "2": "Lake Elf ~ Water Magus",
-    "3": "Scarlet Border ~ Scarlet Land",
-    "4": "Mansion of Darkness ~ Save the Mind",
-    "5": "An Elegant Servant for the Scarlet Moon",
-    "6": "Rain of Blood over Elysium",
-    "7": "Touhou Kouma\"KYOU\" ~ Sister of Scarlet"
+    "1": "Scroll of the TikTok ~ Mystic Square",
+    "2": "Licked the Elmo ~ Ultimate Magnus",
+    "3": "Mexico Border ~ Purple Simpsons",
+    "4": "Man the Game ~ Save Palestine",
+    "5": "An Illegal Ant for Kids",
+    "6": "Rain of TACOS",
+    "7": "Touhou Moma\"DAI\" ~ Purple Homer Simpson"
 }
